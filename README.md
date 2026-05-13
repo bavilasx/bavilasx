@@ -1,5 +1,3 @@
-Aquí lo tienes listo para copiar directamente como README.md:
-
 # 👋 Hola, soy Brando Avila
 💻 Desarrollador backend enfocado en **automatización de procesos**, **integraciones** y **sistemas empresariales**.  
 🚀 Especializado en construir soluciones robustas usando **Odoo**, **Django** y APIs.
